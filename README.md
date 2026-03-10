@@ -3,6 +3,7 @@ Budget App (FreeCodeCamp)
 A Python application for managing budget categories and tracking finances, developed as the third project for the Scientific Computing with Python certification.
 
 Project Overview
+
 The goal of this project was to create a 'Category' class that can instantiate different budget objects (like food, clothing, or entertainment). The application allows for depositing funds, withdrawing money with balance checks, and transferring amounts between categories, all while maintaining a detailed transaction ledger.
 
 Key Features
@@ -26,6 +27,7 @@ Technical Skills Applied
     Optimized data processing using concise Pythonic syntax for calculating totals and padding strings.
 
 Learning Reflections
+
 This project deepened my understanding of how to structure internal logic within a class and the importance of data encapsulation. I learned how to handle complex string manipulations for CLI tools and realized that using built-in functions like sum() and max() with generator expressions makes code significantly more readable and efficient compared to manual loops.
 
 Created by Chicot-q
